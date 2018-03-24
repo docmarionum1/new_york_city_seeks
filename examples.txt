@@ -1,0 +1,285 @@
+Work with technical
+and business objectives and
+local law mandates
+
+[[{'word': 'WORK', 'syllables': 1}], [], []]
+
+[[{'word': 'WORK', 'syllables': 1}, {'word': 'WITH', 'syllables': 1}], [], []]
+
+[[{'word': 'WORK', 'syllables': 1}, {'word': 'WITH', 'syllables': 1}, {'word': 'TECHNICAL', 'syllables': 3}], [], []]
+
+[[{'word': 'WORK', 'syllables': 1}, {'word': 'WITH', 'syllables': 1}, {'word': 'TECHNICAL', 'syllables': 3}], [{'word': 'AND', 'syllables': 1}], []]
+
+[[{'word': 'WORK', 'syllables': 1}, {'word': 'WITH', 'syllables': 1}, {'word': 'TECHNICAL', 'syllables': 3}], [{'word': 'AND', 'syllables': 1}, {'word': 'BUSINESS', 'syllables': 2}], []]
+
+[[{'word': 'WORK', 'syllables': 1}, {'word': 'WITH', 'syllables': 1}, {'word': 'TECHNICAL', 'syllables': 3}], [{'word': 'AND', 'syllables': 1}, {'word': 'BUSINESS', 'syllables': 2}, {'word': 'OBJECTIVES', 'syllables': 3}], []]
+
+[[{'word': 'WORK', 'syllables': 1}, {'word': 'WITH', 'syllables': 1}, {'word': 'TECHNICAL', 'syllables': 3}], [{'word': 'AND', 'syllables': 1}, {'word': 'BUSINESS', 'syllables': 2}, {'word': 'OBJECTIVES', 'syllables': 3}, {'word': 'AND', 'syllables': 1}], []]
+
+[[{'word': 'WORK', 'syllables': 1}, {'word': 'WITH', 'syllables': 1}, {'word': 'TECHNICAL', 'syllables': 3}], [{'word': 'AND', 'syllables': 1}, {'word': 'BUSINESS', 'syllables': 2}, {'word': 'OBJECTIVES', 'syllables': 3}, {'word': 'AND', 'syllables': 1}], [{'word': 'LOCAL', 'syllables': 2}]]
+
+[[{'word': 'WORK', 'syllables': 1}, {'word': 'WITH', 'syllables': 1}, {'word': 'TECHNICAL', 'syllables': 3}], [{'word': 'AND', 'syllables': 1}, {'word': 'BUSINESS', 'syllables': 2}, {'word': 'OBJECTIVES', 'syllables': 3}, {'word': 'AND', 'syllables': 1}], [{'word': 'LOCAL', 'syllables': 2}, {'word': 'LAW', 'syllables': 1}]]
+
+[[{'word': 'WORK', 'syllables': 1}, {'word': 'WITH', 'syllables': 1}, {'word': 'TECHNICAL', 'syllables': 3}], [{'word': 'AND', 'syllables': 1}, {'word': 'BUSINESS', 'syllables': 2}, {'word': 'OBJECTIVES', 'syllables': 3}, {'word': 'AND', 'syllables': 1}], [{'word': 'LOCAL', 'syllables': 2}, {'word': 'LAW', 'syllables': 1}, {'word': 'MANDATES', 'syllables': 2}]]
+
+
+['WORK']
+['WORK', 'WITH']
+['WORK', 'WITH', 'A']
+['WORK', 'WITH', 'A', 'GOAL']
+['WORK', 'WITH', 'A', 'GOAL', 'TO', 'i++']
+['WORK', 'WITH', 'A', 'GOAL', 'TO', 'i++', 'ENSURE']
+['WORK', 'WITH', 'A', 'GOAL', 'TO', 'i++', 'ENSURE', 'PROJECTS']
+['WORK', 'WITH', 'A', 'GOAL', 'TO', 'i++', 'ENSURE', 'PROJECTS', 'ARE']
+['WORK', 'WITH', 'A', 'GOAL', 'TO', 'i++', 'ENSURE', 'PROJECTS', 'ARE', 'NOT']
+['WORK', 'WITH', 'A', 'GOAL', 'TO', 'i++', 'ENSURE', 'PROJECTS', 'ARE', 'NOT', 'BE', 'i++']
+['WORK', 'WITH', 'A', 'GOAL', 'TO', 'i++', 'ENSURE', 'PROJECTS', 'ARE', 'NOT', 'BE', 'i++', 'LIMITED']
+['WORK', 'WITH', 'A', 'GOAL', 'TO', 'i++', 'ENSURE', 'PROJECTS', 'ARE', 'NOT', 'BE', 'i++', 'LIMITED', 'TO']
+Work with a goal to
+ensure projects are not be
+limited to plan
+
+['ENSURING']
+['ENSURING', 'THAT']
+['ENSURING', 'THAT', 'THE', 'i++']
+['ENSURING', 'THAT', 'THE', 'i++', 'COMPANY']
+['ENSURING', 'THAT', 'THE', 'i++', 'COMPANY', 'IS']
+['ENSURING', 'THAT', 'THE', 'i++', 'COMPANY', 'IS', 'PROPERLY', 'i++']
+['ENSURING', 'THAT', 'THE', 'i++', 'COMPANY', 'IS', 'PROPERLY', 'i++', 'PROTECTING']
+['ENSURING', 'THAT', 'THE', 'i++', 'COMPANY', 'IS', 'PROPERLY', 'i++', 'PROTECTING', 'THE']
+Ensuring that the
+company is properly
+protecting the field
+
+['RECOMMEND']
+['RECOMMEND', 'SOFTWARE', 'i++']
+['RECOMMEND', 'SOFTWARE', 'i++', 'AND']
+['RECOMMEND', 'SOFTWARE', 'i++', 'AND', 'TECHNOLOGIES']
+['RECOMMEND', 'SOFTWARE', 'i++', 'AND', 'TECHNOLOGIES', 'TO']
+['RECOMMEND', 'SOFTWARE', 'i++', 'AND', 'TECHNOLOGIES', 'TO', 'SOLVE', 'i++']
+['RECOMMEND', 'SOFTWARE', 'i++', 'AND', 'TECHNOLOGIES', 'TO', 'SOLVE', 'i++', 'COMPLEX']
+['RECOMMEND', 'SOFTWARE', 'i++', 'AND', 'TECHNOLOGIES', 'TO', 'SOLVE', 'i++', 'COMPLEX', 'PROBLEMS']
+['RECOMMEND', 'SOFTWARE', 'i++', 'AND', 'TECHNOLOGIES', 'TO', 'SOLVE', 'i++', 'COMPLEX', 'PROBLEMS', '-PROBLEMS']
+['RECOMMEND', 'SOFTWARE', 'i++', 'AND', 'TECHNOLOGIES', 'TO', 'SOLVE', 'i++', 'COMPLEX', 'PROBLEMS', '-PROBLEMS', 'PROBLEMS']
+['RECOMMEND', 'SOFTWARE', 'i++', 'AND', 'TECHNOLOGIES', 'TO', 'SOLVE', 'i++', 'COMPLEX', 'PROBLEMS', '-PROBLEMS', 'PROBLEMS', '-PROBLEMS', '-COMPLEX']
+['RECOMMEND', 'SOFTWARE', 'i++', 'AND', 'TECHNOLOGIES', 'TO', 'SOLVE', 'i++', 'COMPLEX', 'PROBLEMS', '-PROBLEMS', 'PROBLEMS', '-PROBLEMS', '-COMPLEX', 'PROBLEMS']
+['RECOMMEND', 'SOFTWARE', 'i++', 'AND', 'TECHNOLOGIES', 'TO', 'SOLVE', 'i++', 'COMPLEX', 'PROBLEMS', '-PROBLEMS', 'PROBLEMS', '-PROBLEMS', '-COMPLEX', 'PROBLEMS', 'AND']
+['RECOMMEND', 'SOFTWARE', 'i++', 'AND', 'TECHNOLOGIES', 'TO', 'SOLVE', 'i++', 'COMPLEX', 'PROBLEMS', '-PROBLEMS', 'PROBLEMS', '-PROBLEMS', '-COMPLEX', 'PROBLEMS', 'AND', 'WORK']
+Recommend software
+and technologies to solve
+problems and work styles
+Out[25]:
+['RECOMMEND',
+ 'SOFTWARE',
+ 'i++',
+ 'AND',
+ 'TECHNOLOGIES',
+ 'TO',
+ 'SOLVE',
+ 'i++',
+ 'COMPLEX',
+ 'PROBLEMS',
+ '-PROBLEMS',
+ 'PROBLEMS',
+ '-PROBLEMS',
+ '-COMPLEX',
+ 'PROBLEMS',
+ 'AND',
+ 'WORK',
+ 'STYLES',
+ 'i++']
+ 
+ Overseeing all
+projects for the effective
+use of the bureau
+['OVERSEEING', 'ALL', 'i++', 'PROJECTS', 'FOR', 'THE', 'EFFECTIVE', 'i++', 'USE', 'OF', 'THE', 'BUREAU', 'i++']
+
+Demonstrate a high
+level of technical and
+functional designs
+['demonstrate', 'the', '-the', 'a', 'high', 'i++', 'level', 'of', 'technical', 'and', 'i++', 'database', 'teams', '-teams', '-database', 'management', 'team', '-team', '-management', 'functional', 'designs', 'i++']
+
+Oversee and drive
+all product development
+and applications
+['oversee', 'and', 'drive', 'i++', 'incident', 'resolution', 'i++', 'and', 'customer', '-customer', 'other', 'key', '-key', '-other', 'customer', '-customer', '-and', 'technical', '-technical', 'i--', '-resolution', '-incident', 'all', 'product', 'development', 'i++', 'and', 'applications', 'i++']
+
+['understand', 'and', 'write', 'i++', 'update', 'functional', 'and', 'or', 'i++', 'execute', 'test', 'plans', 'i++']
+
+['create', 'requests', '-requests', 'and', 'maintain', 'i++', 'project', 'plans', 'to', 'track', 'it', '-it', '-track', '-to', '-plans', 'management', 'office', 'i++', 'resources', 'and', '-and', '-resources', 'i--', '-office', 'metrics', 'i++', 'i--', '-metrics', '-management', '-project', 'a', 'central', 'knowledge', 'base', 'of', 'i++', 'problems', 'and', 'work', 'styles', 'i++']
+
+['configuring', 'and', 'i++', 'customizing', 'microsoft', 'i++', 'dynamics', 'systems', 'i++']
+
+['experience', 'with', 'i++', 'network', 'security', 'threat', 'i++', 'analysis', '-analysis', 'i--', '-threat', '-security', 'consensus', '-consensus', '-network', 'test', 'automation', 'framework', 'i++', 'and', 'automate', 'tests', 'i++']
+['fact', 'team', 'manager', 'i++', 'is', 'expected', 'to', 'build', 'new', 'i++', 'digital', 'and', '-and', '-digital', 'i--', '-new', 'all', 'i++', 'i--', '-all', '-build', 'provide', 'i++', 'a', 'high', 'level', '-level', '-high', '-a', 'leadership', 'and', '-and', '-leadership', 'i--', '-provide', 'forge', 'strong', 'i++', 'working', 'knowledge', 'skills', 'i++']
+['manage', 'a', 'small', 'team', 'i++', 'to', 'gather', 'requirements', 'for', 'i++', 'data', 'sharing', 'needs', 'i++']
+['ensure', 'staff', 'receive', 'i++', 'the', 'training', 'and', 'support', 'to', 'i++', 'the', 'enterprise', '-enterprise', 'project', 'to', '-to', '-project', 'chief', 'of', 'staff', '-staff', '-of', '-chief', '-the', 'i--', '-to', 'in', 'i++', 'ms', 'dynamics', '-dynamics', '-ms', 'i--', '-in', 'it', 'i++', 'operations', '-operations', 'i--', '-it', '-support', '-and', '-training', '-the', 'i--', '-receive', '-staff', 'that', 'standard', 'i++', 'processes', 'are', 'used', 'by', 'the', 'i++', 'mayor', 'and', 'the', '-the', '-and', '-mayor', 'i--', '-the', 'field', 'i++', 'code', '-code', 'i--', '-field', '-by', '-used', '-are', 'to', 'review', 'all', 'i++', 'defects', 'and', 'work', 'styles', 'i++']
+['the', 'new', 'york', 'city', 'i++', 'cyber', 'command', 'with', '-with', 'was', '-was', '-command', '-cyber', 'i--', '-city', 'and', 'has', 'i++', 'the', 'primary', 'and', '-and', '-primary', '-the', 'a', 'wastewater', 'conveyance', 'i++', 'and', 'treatment', '-treatment', '-and', 'i--', '-conveyance', '-wastewater', '-a', 'i--', '-has', '-and', 'city', 'i++', 'while', 'also', 'issuing', '-issuing', '-also', '-while', 'i--', '-city', 'and', 'has', 'i++', 'the', 'ability', 'to', 'work', 'i++', 'closely', 'with', 'the', '-the', '-with', '-closely', 'i--', '-work', 'link', 'i++', 'vision', 'and', 'values', 'i++']
+['work', 'call', '-call', 'closely', 'with', 'the', 'i++', 'quality', 'assurance', 'groups', 'i++', 'in', 'an', 'effort', '-effort', '-an', 'support', 'of', '-of', '-support', 'an', 'effort', '-effort', '-an', '-in', 'i--', '-groups', '-assurance', '-quality', 'business', 'and', 'product', '-product', '-and', '-business', 'i--', '-the', 'all', 'i++', 'areas', 'of', 'data', 'from', 'i++', 'across', 'the', 'team', '-team', '-the', '-across', 'i--', '-from', 'and', 'i++', 'technology', 'roles', 'i++']
+['configure', 'and', '-and', 'windows', 'i++', 'security', 'such', 'as', 'nist', 'i++', 'or', 'other', 'settings', 'i++']
+['the', 'candidate', 'will', 'i++', 'evaluate', 'the', 'needs', 'of', 'i++', 'the', 'newly', '-newly', 'office', 'of', '-of', '-office', 'databases', 'i++']
+['provide', 'leadership', 'i++', 'in', 'planning', 'documenting', 'i++', 'i--', '-documenting', 'and', 'managing', 'i++', 'responses', 'to', '-to', '-responses', 'enterprise', '-enterprise', 'i--', '-managing', 'requirements', 'i++', 'sessions', 'as', 'needed', 'i++']
+['passion', 'for', 'using', 'i++', 'creativity', 'and', 'a', 'i++', 'data', 'warehouse', '-warehouse', 'sharing', 'needs', 'i++']
+['implement', 'new', '-new', 'an', 'it', 'i++', 'service', 'request', 'system', 'to', 'i++', 'provide', 'the', 'best', '-best', '-the', 'and', '-and', '-provide', 'better', 'serve', 'users', 'i++']
+['conduct', 'regular', 'i++', 'team', 'meetings', 'to', 'ensure', 'the', 'i++', 'city', 'of', 'new', '-new', '-of', '-city', 'proper', 'engagement', 'i++']
+['execute', 'test', 'scripts', 'i++', 'for', 'new', 'york', 'city', 'through', '-through', 'cyber', 'i++', 'command', 'with', '-with', '-command', 'i--', '-cyber', '-city', 'budgeting', 'and', 'i++', 'procurement', 'systems', 'i++']
+
+
+
+CIVIL ENGINEER
+The operation
+and maintenance of public
+works plants or structures
+['the', 'operation', 'i++', 'and', 'maintenance', 'of', 'all', 'of', 'i++', 'the', 'city', 'of', '-of', '-city', '-the', 'new', 'york', 'city', '-city', '-york', 'roadway', '-roadway', '-new', 'i--', '-of', 'work', 'i++', 'performed', 'by', 'the', '-the', '-by', '-performed', 'is', 'progressing', '-progressing', '-is', 'i--', '-work', '-all', 'any', 'i++', 'scope', 'and', 'cost', '-cost', '-and', '-scope', 'i--', '-any', 'all', 'of', 'i++', 'the', 'highest', '-highest', '-the', 'i--', '-of', '-all', 'public', 'i++', 'works', 'plants', 'or', 'structures', 'i++']
+
+CITY CUSTODIAL ASSISTANT
+Wash walls by hand with
+a mission of the bureau
+of operations
+['wash', 'electric', 'light', 'i++', 'fixtures', '-fixtures', 'i--', '-light', '-electric', 'walls', 'by', 'hand', 'with', 'i++', 'a', 'mission', 'of', 'the', 'bureau', 'i++', 'of', 'operations', 'i++']
+
+CIVIL ENGINEERING INTERN
+Knowledge of sewer
+design and construction of
+green roofs required
+['knowledge', 'and', '-and', 'of', 'sewer', 'i++', 'design', 'and', 'construction', 'of', 'i++', 'green', 'roofs', 'required', 'i++']
+
+COLLEGE AIDE (ALL CITY DEPTS)
+Established interest
+in program management and
+data entry skills
+['established', 'interest', 'i++', 'in', 'program', 'management', 'and', 'i++', 'data', 'entry', 'skills', 'i++']
+
+ADMINISTRATIVE STAFF ANALYST (
+Excellent writing
+skills and abilities to
+develop projects
+['excellent', 'writing', 'i++', 'interpersonal', '-interpersonal', 'skills', 'including', 'but', 'not', 'be', 'i++', 'considered', 'for', '-for', '-considered', 'limited', 'to', '-to', '-limited', 'considered', 'for', '-for', '-considered', 'i--', '-be', '-not', '-but', '-including', 'and', 'proficiency', 'in', 'i++', 'microsoft', 'word', '-word', '-microsoft', 'i--', '-in', '-proficiency', 'abilities', 'to', 'i++', 'develop', 'projects', 'i++']
+
+ADM ENGINEER (NON MGRL)
+The bureau also
+approves and inspects water
+and sewer projects
+['the', 'bureau', 'of', '-of', 'also', 'i++', 'approves', 'and', 'inspects', 'water', 'i++', 'and', 'sewer', 'projects', 'i++']
+
+URBAN PARK RANGER
+Ensure the safety
+and enjoyment of park rules
+and regulations
+['ensure', 'the', 'safety', 'i++', 'and', 'enjoyment', 'of', 'park', 'rules', 'i++', 'and', 'regulations', 'i++']
+
+PLUMBER
+Supervise and be
+responsible for the work
+of plumbers helper
+['supervise', 'and', 'be', 'i++', 'responsible', 'for', 'the', 'work', 'i++', 'of', 'plumbers', 'helper', 'i++']
+
+RESEARCH ASSISTANT
+Conduct searches of
+several databases and
+web applications
+['conduct', 'records', '-records', 'searches', 'of', 'i++', 'the', 'general', 'counsel', 'which', 'i++', 'consists', 'of', 'eight', '-eight', '-of', '-consists', 'i--', '-which', '-counsel', '-general', '-the', 'several', 'databases', 'and', 'i++', 'web', 'applications', 'i++']
+
+ADM MANAGER-NON-MGRL FRM M1/M2
+Prepare and submit
+for review and process the
+hundreds of payments
+['prepare', 'and', 'submit', 'i++', 'for', 'review', 'and', 'approval', 'i++', 'all', 'amended', '-amended', '-all', 'i--', '-approval', 'process', 'the', 'i++', 'hundreds', 'of', 'payments', 'i++']
+
+ADMINISTRATIVE ENGINEER
+Reconcile project
+scope review and approve time
+schedules for payroll
+['reconcile', 'project', 'i++', 'scope', 'cost', 'and', 'schedule', 'through', 'due', 'i++', 'diligence', 'and', '-and', '-diligence', 'i--', '-due', '-through', '-schedule', 'schedules', 'issues', 'i++', 'with', 'agency', '-agency', '-with', 'i--', '-issues', '-schedules', '-and', '-cost', 'review', 'and', 'approve', 'time', 'i++', 'schedules', 'for', 'payroll', 'i++']
+
+CLERICAL ASSOCIATE
+Look up and print out
+inmate information from
+field staff and others
+['look', 'up', 'and', 'print', 'out', 'i++', 'inmate', 'information', 'from', 'i++', 'field', 'staff', 'and', 'others', 'i++']
+
+INVESTIGATIVE MANAGER (CCRB)
+Reviews each closed case
+before it is submitted
+to the agency
+['reviews', 'each', 'closed', 'case', 'i++', 'before', 'it', 'is', 'submitted', 'i++', 'to', 'the', 'agency', 'i++']
+
+ADMIN COMMUNITY RELATIONS SPEC
+Proven skill dealing
+with elected officials
+community boards
+['proven', 'skill', 'dealing', 'i++', 'with', 'elected', 'officials', 'i++', 'community', 'boards', 'i++']
+
+ADMINISTRATIVE QUALITY ASSURAN
+Identify trends
+project consequences and
+plan accordingly
+['identify', 'trends', 'i++', 'project', 'consequences', 'and', 'i++', 'plan', 'accordingly', 'i++']
+
+DEPUTY ASSISTANT DIRECTOR (CIV
+The ability
+to use computer software
+and applications
+['the', 'executive', 'i++', 'director', 'is', '-is', '-director', 'i--', '-executive', 'ability', 'i++', 'to', 'build', 'coalitions', '-coalitions', '-build', 'use', 'computer', 'software', 'i++', 'and', 'applications', 'i++']
+
+CEMENT MASON
+Prepare mix lay and
+finish cement and concrete
+to grade and contour
+['prepare', 'mix', 'lay', 'and', 'i++', 'finish', 'cement', 'and', 'concrete', 'i++', 'to', 'grade', 'and', 'contour', 'i++']
+
+ASSOCIATE INSPECTOR (CONSUMERS
+Ability to
+create and manipulate
+excel documents
+['ability', 'to', 'i++', 'understand', 'various', 'laws', 'i++', 'rules', 'and', '-and', '-rules', 'i--', '-laws', '-various', '-understand', 'work', 'flexible', 'hours', '-hours', '-flexible', '-work', 'create', 'and', 'manipulate', 'i++', 'excel', 'documents', 'i++']
+
+ASSISTANT COMMISSIONER (BUILDI
+Develop design
+and implement long range plans
+goals and objectives
+['develop', 'design', 'i++', 'and', 'implement', 'long', 'range', 'plans', 'i++', 'goals', 'and', 'objectives', 'i++']
+
+COMPUTER SPECIALIST (OPERATION
+The dangers of this
+position is to provide
+the best solution
+['the', 'dangers', 'of', 'this', 'i++', 'position', 'is', 'to', 'provide', 'i++', 'the', 'best', 'solution', 'i++']
+
+ELECTRICIAN (AUTOMOBILE)
+Maintains records and
+inventories of supplies
+and materials
+['maintains', 'records', 'and', 'i++', 'inventories', 'of', 'supplies', 'i++', 'and', 'materials', 'i++']
+
+ADMINISTRATIVE JOB OPPORTUNITY
+Ensure compliance
+with mandated signage are
+properly posted
+['ensure', 'compliance', 'i++', 'with', 'applicable', '-applicable', 'mandated', 'signage', 'are', 'i++', 'properly', 'posted', 'i++']
+
+ADMINISTRATIVE CITY PLANNER
+The planning unit
+provides oversight for the
+future of new york
+['the', 'planning', 'unit', 'i++', 'provides', 'oversight', 'for', 'the', 'i++', 'agency', 'at', '-at', 'the', '-the', '-agency', 'strategic', 'growth', '-growth', '-strategic', 'future', 'of', 'new', 'york', 'i++']
+
+HEATING PLANT TECHNICIAN (HA)
+Operate heating
+and domestic hot water
+service disruptions
+['operate', 'heating', 'i++', 'and', 'domestic', 'hot', 'water', 'i++', 'boilers', '-boilers', 'service', 'disruptions', 'i++']
+
+METAL WORK MECHANIC
+Is responsible
+for and directs the work of
+assigned personnel
+['is', 'responsible', 'i++', 'for', 'and', 'directs', 'the', 'work', 'of', 'i++', 'assigned', 'personnel', 'i++']
+
+ASSOCIATE URBAN DESIGNER
+Perform a wide range
+of planning urban design
+and engineering
+['perform', 'a', 'wide', 'range', 'i++', 'of', 'planning', 'urban', 'design', 'i++', 'and', 'engineering', 'i++']
+
+
